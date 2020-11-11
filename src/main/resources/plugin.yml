@@ -1,0 +1,5 @@
+name: ExampleMaven
+version: ${project.version}
+main: fr.fabienhebuterne.examplemaven.ExampleMaven
+api-version: 1.16
+authors: [ fabien91 ]
